@@ -1,6 +1,8 @@
 import java.util.Scanner;
 public class Calculator {
     public static void main(String args[]){
+        //this has been uploaded to github
+        //haha yeah man
         Scanner scan = new Scanner(System.in);
         System.out.print("Enter first operand: ");
         Double operand1= scan.nextDouble();
